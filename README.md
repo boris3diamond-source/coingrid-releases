@@ -107,7 +107,9 @@ Coin Grid сама не открывает файлы с фото. Открой�
 9. При необходимости: «Подобрать по контурам», **Heatmap**, «Соответствия» (M).
 10. Запишите результат: «Запись сравнения» → вердикт → «Записать сравнение».
 
-Полный путь на одном ролике (около 40 секунд): **[смотреть видео](https://github.com/boris3diamond-source/coingrid-releases/blob/main/docs/guide/video/quickstart.mp4)** (откроется прямо в браузере).
+Весь путь одной анимацией (около 35 секунд): слепок → совмещение → сравнение → heatmap. **Нажмите на картинку**: анимация откроется и пойдёт с самого начала, один раз.
+
+<a href="https://raw.githubusercontent.com/boris3diamond-source/coingrid-releases/main/docs/guide/video/quickstart.gif"><img src="https://raw.githubusercontent.com/boris3diamond-source/coingrid-releases/main/docs/guide/img/quickstart-poster.jpg" width="800" alt="Кнопка запуска анимации: весь путь от слепка на Coin A до heatmap на Coin B"></a>
 
 <sub>[↑ к оглавлению](#инструкция-по-работе)</sub>
 
