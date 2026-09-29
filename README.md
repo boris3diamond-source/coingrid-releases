@@ -2,16 +2,16 @@
 
 Нативная утилита для macOS (Apple Silicon): рисует поверх любых окон направляющие, сетку и «монетную» маску, а также снимает геометрический **слепок штемпеля** с одной монеты и накладывает его на другую.
 
-**[Скачать последнюю версию](https://github.com/boris3diamond-source/coingrid-releases/releases/latest)** · [Установка](#три-шага) · [Инструкция по работе с картинками и видео](#инструкция-по-работе) · [Быстрый старт](#быстрый-старт-последовательность-работы) · [Справочник](#справочник)
+**[Скачать Coin Grid 0.5.1 для Mac (zip, 2,4 МБ)](https://github.com/boris3diamond-source/coingrid-releases/releases/download/v0.5.1/CoinGrid-0.5.1-arm64.zip)** · [Установка](#три-шага) · [Инструкция по работе с картинками и видео](#инструкция-по-работе) · [Быстрый старт](#быстрый-старт-последовательность-работы) · [Справочник](#справочник)
 
 
 Нужен Mac на Apple Silicon (M1 и новее) с macOS 13 Ventura или новее.
 
 ## Три шага
 
-1. **Скачайте** архив `CoinGrid-<версия>-arm64.zip` со страницы
-   https://github.com/boris3diamond-source/coingrid-releases/releases
-   (аккаунт GitHub не нужен). Рядом лежит `.sha256` — контрольная сумма архива.
+1. **[Скачайте архив CoinGrid-0.5.1-arm64.zip](https://github.com/boris3diamond-source/coingrid-releases/releases/download/v0.5.1/CoinGrid-0.5.1-arm64.zip)** (2,4 МБ, аккаунт GitHub не нужен).
+   Рядом лежит [`.sha256`](https://github.com/boris3diamond-source/coingrid-releases/releases/download/v0.5.1/CoinGrid-0.5.1-arm64.zip.sha256) — контрольная сумма архива. Старые версии — на
+   [странице релизов](https://github.com/boris3diamond-source/coingrid-releases/releases).
 2. **Распакуйте** архив двойным щелчком и **перетащите `CoinGrid.app` в папку «Программы»**
    (Applications). Запускайте уже оттуда, а не из «Загрузок».
 3. **Разрешите запуск.** Приложение не нотаризовано Apple, поэтому при первом запуске macOS его
